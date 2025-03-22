@@ -42,9 +42,7 @@ How different values of K affect clustering:
 
 ➢ Principal Component 2: 0.4554
 
-3. Total Variance Captured by the First 
-
-2 Principal Components: 1.0000
+3. Total Variance Captured by the First 2 Principal Components: 1.0000
 
 ![Screenshot 2025-03-22 050138](https://github.com/user-attachments/assets/7a0b23ae-3b84-48eb-a833-6a17dfefbf8e)
 
